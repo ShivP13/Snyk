@@ -35,7 +35,7 @@
     "marked": "4.0.10",
     "method-override": "latest",
     "moment": "2.29.4",
-    "mongodb": "^3.5.9",
+    "mongodb": "^3.7.4",
     "mongoose": "5.13.20",
     "morgan": "latest",
     "ms": "^2.0.0",
